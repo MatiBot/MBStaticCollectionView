@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/MBStaticCollectionView.svg?style=flat)](http://cocoapods.org/pods/MBStaticCollectionView)
 [![Platform](https://img.shields.io/cocoapods/p/MBStaticCollectionView.svg?style=flat)](http://cocoapods.org/pods/MBStaticCollectionView)
 
+![](https://raw.github.com/matibot/MBStaticCollectionView/master/Readme/MBStaticCollectionView.png)
+
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
