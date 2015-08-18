@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "MBStaticCollectionView"
-s.version          = "0.1.0"
+s.version          = "0.1"
 s.summary          = "Configure UICollectionView static cells directly from the IB just like in UITableView"
 s.description      = <<-DESC
 Configure your static UICollectionView DataSource directly from the IB.
