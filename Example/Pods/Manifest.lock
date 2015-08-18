@@ -1,0 +1,14 @@
+PODS:
+  - MBStaticCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - MBStaticCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  MBStaticCollectionView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MBStaticCollectionView: 7b1c236c3bfeade341025408e1f002eb33c4e0bb
+
+COCOAPODS: 0.38.2

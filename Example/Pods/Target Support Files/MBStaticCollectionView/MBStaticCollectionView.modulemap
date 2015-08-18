@@ -1,0 +1,6 @@
+framework module MBStaticCollectionView {
+  umbrella header "MBStaticCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

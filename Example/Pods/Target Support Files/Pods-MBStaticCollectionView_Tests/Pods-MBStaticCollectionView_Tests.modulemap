@@ -1,0 +1,6 @@
+framework module Pods_MBStaticCollectionView_Tests {
+  umbrella header "Pods-MBStaticCollectionView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
