@@ -1,5 +1,7 @@
 # MBStaticCollectionView
 
+#### Define static UICollectionViewCells only in the Interface Builder without the need to implement a datasource, just like in UITableViewController.
+
 [![CI Status](http://img.shields.io/travis/Mati Bot/MBStaticCollectionView.svg?style=flat)](https://travis-ci.org/Mati Bot/MBStaticCollectionView)
 [![Version](https://img.shields.io/cocoapods/v/MBStaticCollectionView.svg?style=flat)](http://cocoapods.org/pods/MBStaticCollectionView)
 [![License](https://img.shields.io/cocoapods/l/MBStaticCollectionView.svg?style=flat)](http://cocoapods.org/pods/MBStaticCollectionView)
