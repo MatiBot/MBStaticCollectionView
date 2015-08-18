@@ -12,7 +12,12 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## How to use
+
+1. Add a UICollectionView to your UIViewController or add a UICollectionViewController
+2. Configure the custom class of the UICollectionView to be `MBStaticCollectionView`
+3. Add Prototype cells to the UICollectionView from the Interface Builder and define their Reuse Identifier. Keep in mind that the Reuse Identifiers should be different for every cell and should be increasing in the same order you wish your cell will be displayed (Cell1, Cell2, .. for example)  
+4. Enjoy
 
 ## Installation
 
