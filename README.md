@@ -32,7 +32,7 @@ pod "MBStaticCollectionView"
 
 ## Author
 
-Mati Bot, matibot@gmail.com
+Mati Bot, os@mati.bot
 
 ## License
 
